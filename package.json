@@ -1,0 +1,9 @@
+{
+  "name": "jpd-match-padrinhos-e-afilhados",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel de Matchs JPD",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
